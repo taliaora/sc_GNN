@@ -1,5 +1,5 @@
 # Rewritten version of the model, renamed and cleaned up to follow
-# consistent naming conventions and avoid plagiarism
+# consistent naming conventions and avoid clashing names
 
 import torch
 import torch.nn as nn
